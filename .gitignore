@@ -1,0 +1,40 @@
+# Executables
+cube3d
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+dist/
+bin/
+*.dSYM/
+
+# Object files
+*.o
+*.obj
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+debug.log
+
+# Backups
+*.bak
+*.backup
